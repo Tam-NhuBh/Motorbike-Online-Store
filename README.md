@@ -1,5 +1,6 @@
 # Motorbike-Online-Store
 1. Home Page
+<img src= "https://user-images.githubusercontent.com/94100591/205263423-230a026f-04ae-45ab-a4c1-a068015ebbab.png" width="500" height="200">
 ![image](https://user-images.githubusercontent.com/94100591/205263423-230a026f-04ae-45ab-a4c1-a068015ebbab.png)
 ![image](https://user-images.githubusercontent.com/94100591/205263434-f1ed546f-ad71-428e-a84d-b384a67c68c2.png)
 2. Login Page
